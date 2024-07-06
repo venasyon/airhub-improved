@@ -23,7 +23,7 @@ getgenv().AirHub = {}
 --// Load Modules
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/venasyon/airhub-improved/main/modules/aim.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/airhub-improved//main/modules/wh.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/venasyon/airhub-improved//main/modules/wh.lua"))()
 
 --// Variables
 
